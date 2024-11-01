@@ -1,1 +1,1 @@
-//  SecureSphere – A complete, protective “sphere” for secrets
+SecureSphere – A complete, protective “sphere” for secrets
